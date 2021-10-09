@@ -1,4 +1,5 @@
 import numpy as np
+
 #random.randint
 a = np.random.randint(0, 2) # Ngẫu nhiên số nguyên trong khoảng [0, 2)
 print("a = ",a)
